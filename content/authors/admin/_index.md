@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Shuya Zhang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSDS@Brown
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Brown University
+  url: https://www.brown.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a master student in Data Science at Brown University.
 
 # Interests to show in About widget
 interests:
